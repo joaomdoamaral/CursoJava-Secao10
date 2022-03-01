@@ -51,7 +51,7 @@ public class MatrizesEx
 				}
 			}
 		}
-		
+		System.out.println("Finish");
 		scanner.close();
 
 	}
